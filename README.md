@@ -8,3 +8,8 @@ This repository is a collection of Python projects and experiments. It serves as
 - Repo name: first
 - Language: Python
 - Description: My first repository
+
+
+* 1
+* 2
+* 3
